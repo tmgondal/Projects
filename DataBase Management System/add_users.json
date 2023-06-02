@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "640dbdb63929598aefd47d8c"
+  },
+  "userid": "12a12345-12b4-1a2b-9876-95278bc981d8",
+  "user_name": "GCU1",
+  "first_name":"FirstName1",
+  "last_name": "SecondName1",
+  "email": "gcu1.123@gmail.com",
+  "password": "1gcustudent1122"
+},{
+  "_id": {
+    "$oid": "640dbdb63929598aefd47d8d"
+  },
+  "userid": "12a12345-12b4-1a2b-9876-95278bc981d8",
+  "user_name": "GCU2",
+  "first_name":"FirstName2",
+  "last_name": "SecondName2",
+  "email": "gcu2.123@gmail.com",
+  "password": "2gcustudent1122"
+},{
+  "_id": {
+    "$oid": "640dbdb63929598aefd47d8e"
+  },
+  "userid": "12a12345-12b4-1a2b-9876-95278bc981d8",
+  "user_name": "GCU3",
+  "first_name":"FirstName3",
+  "last_name": "SecondName3",
+  "email": "gcu3.123@gmail.com",
+  "password": "3gcustudent1122"
+},{
+  "_id": {
+    "$oid": "640dbdb63929598aefd47d8f"
+  },
+  "userid": "12a12345-12b4-1a2b-9876-95278bc981d8",
+  "user_name": "GCU4",
+  "first_name":"FirstName4",
+  "last_name": "SecondName4",
+  "email": "gcu4.123@gmail.com",
+  "password": "4gcustudent1122"
+},{
+  "_id": {
+    "$oid": "640dbdb63929598aefd47d90"
+  },
+  "userid": "12a12345-12b4-1a2b-9876-95278bc981d8",
+  "user_name": "GCU5",
+  "first_name":"FirstName5",
+  "last_name": "SecondName5",
+  "email": "gcu5.123@gmail.com",
+  "password": "5gcustudent1122"
+},{
+  "_id": {
+    "$oid": "640dbdb63929598aefd47d91"
+  },
+  "userid": "12a12345-12b4-1a2b-9876-95278bc981d8",
+  "user_name": "GCU6",
+  "first_name":"FirstName6",
+  "last_name": "SecondName6",
+  "email": "gcu6.123@gmail.com",
+  "password": "6gcustudent1122"
+}]
+
+
