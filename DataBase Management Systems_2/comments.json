@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "640d7ab0cbdb3c97232037a3"
+  },
+  "comment_id": "bbea4ead-92b7-4c5a-b23a-75afdb8392dc",
+  "book_id": "3cc261e1-df82-4888-9804-470728648181",
+  "user_id": "5220ef31-b384-4ece-a00a-3d2ea7176ca0",
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "text": "Sample Comment One for Book One by UserOne"
+},{
+  "_id": {
+    "$oid": "640d7ab0cbdb3c97232037a4"
+  },
+  "comment_id": "84f5437d-2bb7-4bbb-954c-75c93488f3fa",
+  "book_id": "3cc261e1-df82-4888-9804-470728648181",
+  "user_id": "70c8ed4a-f9a6-4b40-a112-0a0af6a4134f",
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "text": "Sample Comment Two for Book One by UserTwo"
+},{
+  "_id": {
+    "$oid": "640d7ab0cbdb3c97232037a5"
+  },
+  "comment_id": "9893c9da-8f68-4e8d-8930-4e2cfdaf9fb3",
+  "book_id": "b95f894e-1df6-4787-9da5-4d46a5e2bb3f",
+  "user_id": "014bb153-8619-45bf-a771-c9b9634b1ea8",
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "text": "Sample Comment Three for Book Two by UserThree"
+},{
+  "_id": {
+    "$oid": "640d7ab0cbdb3c97232037a6"
+  },
+  "comment_id": "d2ce2e37-fd64-482d-bb04-8d6994d7190a",
+  "book_id": "b95f894e-1df6-4787-9da5-4d46a5e2bb3f",
+  "user_id": "a6b5bfae-b77e-4a92-9fab-033b7fb9597d",
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "text": "Sample Comment Four for Book Two by UserFour"
+},{
+  "_id": {
+    "$oid": "640d7ab0cbdb3c97232037a7"
+  },
+  "comment_id": "b0c1cdda-97a1-4e85-92c9-fd7895745d7d",
+  "book_id": "caec6098-b56d-48f1-be95-a7af4c991bcc",
+  "user_id": "be7a0fc1-4a73-43b8-b16e-e75ffd62d039",
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "text": "Sample Comment Five for Book Three by UserFive"
+},{
+  "_id": {
+    "$oid": "640d7ab0cbdb3c97232037a8"
+  },
+  "comment_id": "7b992fef-1e92-499c-80a6-192ad7be3cd9",
+  "book_id": "c66ba3d2-3aac-4d8b-b4ea-f9d712cefcbe",
+  "user_id": "be7a0fc1-4a73-43b8-b16e-e75ffd62d039",
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "text": "Sample Comment Six for Book Nine by UserFive"
+},{
+  "_id": {
+    "$oid": "640d7ab0cbdb3c97232037a9"
+  },
+  "comment_id": "218990f4-ea95-431e-b6e4-9a9e937b7107",
+  "book_id": "d3bcc5f2-4a4d-4bc6-a526-615b387bc54f",
+  "user_id": "be7a0fc1-4a73-43b8-b16e-e75ffd62d039",
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "text": "Sample Comment Seven for Book Ten by UserFive"
+},{
+  "_id": {
+    "$oid": "640d7eabcbdb3c97232037aa"
+  },
+  "comment_id": "7672efce-7285-4cd9-8094-cec51cbf10a4",
+  "book_id": "3cc261e1-df82-4888-9804-470728648181",
+  "user_id": "5220ef31-b384-4ece-a00a-3d2ea7176ca0",
+  "date": {
+    "$date": {
+      "$numberLong": "1678605994998"
+    }
+  },
+  "text": "New Sample Comment"
+}]

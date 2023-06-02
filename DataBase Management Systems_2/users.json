@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "640d7839cbdb3c9723203794"
+  },
+  "user_id": "5220ef31-b384-4ece-a00a-3d2ea7176ca0",
+  "username": "userOne",
+  "email": "userOne@email.xyz",
+  "password": "passwordOne"
+},{
+  "_id": {
+    "$oid": "640d7839cbdb3c9723203795"
+  },
+  "user_id": "70c8ed4a-f9a6-4b40-a112-0a0af6a4134f",
+  "username": "UserTwo",
+  "email": "userTwo@email.xyz",
+  "password": "passwordTwo"
+},{
+  "_id": {
+    "$oid": "640d7839cbdb3c9723203796"
+  },
+  "user_id": "014bb153-8619-45bf-a771-c9b9634b1ea8",
+  "username": "userThree",
+  "email": "userThree@email.xyz",
+  "password": "passwordThree"
+},{
+  "_id": {
+    "$oid": "640d7839cbdb3c9723203797"
+  },
+  "user_id": "a6b5bfae-b77e-4a92-9fab-033b7fb9597d",
+  "username": "userFour",
+  "email": "userFour@email.xyz",
+  "password": "passwordFour"
+},{
+  "_id": {
+    "$oid": "640d7839cbdb3c9723203798"
+  },
+  "user_id": "be7a0fc1-4a73-43b8-b16e-e75ffd62d039",
+  "username": "userFive",
+  "email": "userFive@email.xyz",
+  "password": "passwordFive"
+}]
