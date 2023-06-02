@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "64101efce5d443616b90f94f"
+  },
+  "b_id": "1",
+  "b_title": "my book 1",
+  "b_class": "Arts",
+  "main_author": "Kamran Destgir",
+  "year": 2001,
+  "total_count": 2,
+  "price": 100,
+  "summary": "first book of Kamran Destgir on arts and humanities",
+  "samplePagesImages": [
+    "https://www.kamrandestgir.com/sample.png",
+    "https://www.kamrandestigr.com/sample.png"
+  ]
+},{
+  "_id": {
+    "$oid": "64101efce5d443616b90f950"
+  },
+  "b_id": "2",
+  "b_title": "my book 2",
+  "b_class": "Arts",
+  "main_author": "Kamran Destgir",
+  "year": 2002,
+  "total_count": 2,
+  "price": 100,
+  "summary": "second book of Kamran Destgir on arts and humanities",
+  "samplePagesImages": [
+    "https://www.kamrandestgir.com/sample.png",
+    "https://www.kamrandestigr.com/sample.png"
+  ]
+},{
+  "_id": {
+    "$oid": "64101efce5d443616b90f951"
+  },
+  "b_id": "3",
+  "b_title": "my book 3",
+  "b_class": "Arts",
+  "main_author": "Kamran Destgir",
+  "year": 2003,
+  "total_count": 3,
+  "price": 100,
+  "summary": "thirs book of Kamran Destgir on arts and humanities",
+  "samplePagesImages": [
+    "https://www.kamrandestgir.com/sample.png",
+    "https://www.kamrandestigr.com/sample.png"
+  ]
+},{
+  "_id": {
+    "$oid": "64101efce5d443616b90f952"
+  },
+  "b_id": "4",
+  "b_title": "my book 4",
+  "b_class": "Science",
+  "main_author": "Kamran Destgir",
+  "year": 2004,
+  "total_count": 4,
+  "price": 100,
+  "summary": "fourth book of Kamran Destgir on arts and humanities",
+  "samplePagesImages": [
+    "https://www.kamrandestgir.com/sample.png",
+    "https://www.kamrandestigr.com/sample.png"
+  ]
+},{
+  "_id": {
+    "$oid": "64101efce5d443616b90f953"
+  },
+  "b_id": "5",
+  "b_title": "my book 5",
+  "b_class": "Science",
+  "main_author": "Adam",
+  "year": 2005,
+  "total_count": 5,
+  "price": 500,
+  "summary": "first book of Adam on Science",
+  "samplePagesImages": [
+    "https://www.adam.com/sample.png",
+    "https://www.adam.com/sample.png"
+  ]
+},{
+  "_id": {
+    "$oid": "64101efce5d443616b90f954"
+  },
+  "b_id": "6",
+  "b_title": "my book 6",
+  "b_class": "Science",
+  "main_author": "Adam",
+  "year": 2006,
+  "total_count": 6,
+  "price": 600,
+  "summary": "second book of adam on science",
+  "samplePagesImages": [
+    "https://www.adam.com/sample.png",
+    "https://www.adam.com/sample.png"
+  ]
+},{
+  "_id": {
+    "$oid": "64101efce5d443616b90f955"
+  },
+  "b_id": "7",
+  "b_title": "my book 7",
+  "b_class": "Science",
+  "main_author": "Adam",
+  "year": 2007,
+  "total_count": 7,
+  "price": 700,
+  "summary": "thirs book of adam on science",
+  "samplePagesImages": [
+    "https://www.adam.com/sample.png",
+    "https://www.adam.com/sample.png"
+  ]
+},{
+  "_id": {
+    "$oid": "64101efce5d443616b90f956"
+  },
+  "b_id": "8",
+  "b_title": "my book 8",
+  "b_class": "Medical",
+  "main_author": "Alex",
+  "year": 2008,
+  "total_count": 8,
+  "price": 800,
+  "summary": "first book of Alex on health",
+  "samplePagesImages": [
+    "https://www.alex.com/sample.png",
+    "https://www.alex.com/sample.png"
+  ]
+},{
+  "_id": {
+    "$oid": "64101efce5d443616b90f957"
+  },
+  "b_id": "9",
+  "b_title": "my book 9",
+  "b_class": "Health",
+  "main_author": "Alex",
+  "year": 2009,
+  "total_count": 9,
+  "price": 900,
+  "summary": "second book of alex on health",
+  "samplePagesImages": [
+    "https://www.alex.com/sample.png",
+    "https://www.alex.com/sample.png"
+  ]
+},{
+  "_id": {
+    "$oid": "64101efce5d443616b90f958"
+  },
+  "b_id": "10",
+  "b_title": "my book 10",
+  "b_class": "Health",
+  "main_author": "Alex",
+  "year": 2010,
+  "total_count": 10,
+  "price": 1000,
+  "summary": "thirs book of alex on science",
+  "samplePagesImages": [
+    "https://www.alex.com/sample.png",
+    "https://www.alex.com/sample.png"
+  ]
+}]

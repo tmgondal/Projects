@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "64102126e5d443616b90f959"
+  },
+  "com_id": "1",
+  "b_id": "1",
+  "user_id": "1",
+  "date": {
+    "$date": {
+      "$numberLong": "1677801600000"
+    }
+  },
+  "comment_text": "first comment on book id 1 by user 1"
+},{
+  "_id": {
+    "$oid": "64102126e5d443616b90f95a"
+  },
+  "com_id": "2",
+  "b_id": "1",
+  "user_id": "1",
+  "date": {
+    "$date": {
+      "$numberLong": "1646352000000"
+    }
+  },
+  "comment_text": "second comment on book id 1 by user 1"
+},{
+  "_id": {
+    "$oid": "64102126e5d443616b90f95b"
+  },
+  "com_id": "3",
+  "b_id": "1",
+  "user_id": "2",
+  "date": {
+    "$date": {
+      "$numberLong": "1677974400000"
+    }
+  },
+  "comment_text": "third comment on book id 1 by user id 2"
+},{
+  "_id": {
+    "$oid": "64102126e5d443616b90f95c"
+  },
+  "com_id": "4",
+  "b_id": "2",
+  "user_id": "2",
+  "date": {
+    "$date": {
+      "$numberLong": "1678060800000"
+    }
+  },
+  "comment_text": "first comment on book id 2 by user 2"
+},{
+  "_id": {
+    "$oid": "64102126e5d443616b90f95d"
+  },
+  "com_id": "5",
+  "b_id": "2",
+  "user_id": "2",
+  "date": {
+    "$date": {
+      "$numberLong": "1677801600000"
+    }
+  },
+  "comment_text": "second comment on book id 2 by user id 2"
+},{
+  "_id": {
+    "$oid": "64102126e5d443616b90f95e"
+  },
+  "com_id": "6",
+  "b_id": "2",
+  "user_id": "3",
+  "date": {
+    "$date": {
+      "$numberLong": "1677801600000"
+    }
+  },
+  "comment_text": "third comment on book id 2 by user id 3"
+},{
+  "_id": {
+    "$oid": "64102126e5d443616b90f95f"
+  },
+  "com_id": "7",
+  "b_id": "3",
+  "user_id": "4",
+  "date": {
+    "$date": {
+      "$numberLong": "1677801600000"
+    }
+  },
+  "comment_text": "this book is amazing"
+},{
+  "_id": {
+    "$oid": "64102126e5d443616b90f960"
+  },
+  "com_id": "8",
+  "b_id": "4",
+  "user_id": "4",
+  "date": {
+    "$date": {
+      "$numberLong": "1677801600000"
+    }
+  },
+  "comment_text": "I love this book"
+},{
+  "_id": {
+    "$oid": "64102126e5d443616b90f961"
+  },
+  "com_id": "9",
+  "b_id": "5",
+  "user_id": "5",
+  "date": {
+    "$date": {
+      "$numberLong": "1677801600000"
+    }
+  },
+  "comment_text": "there is no specific useful knowledge in this book"
+},{
+  "_id": {
+    "$oid": "64102126e5d443616b90f962"
+  },
+  "com_id": "10",
+  "b_id": "6",
+  "user_id": "3",
+  "date": {
+    "$date": {
+      "$numberLong": "1677801600000"
+    }
+  },
+  "comment_text": "everyone should read this book"
+}]
