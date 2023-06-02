@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d92"
+  },
+  "bookid": "2x11111c",
+  "book_title": "Programming with R",
+  "book_category": "Education",
+  "book_author": "Mark Tedd",
+  "book_pub_year": 1982,
+  "books_in_stock": 1589,
+  "book_description": "Programming language exclusively designed for undergraduate students",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+
+
+},
+{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d93"
+  },
+  "bookid": "3x11111c",
+  "book_title": "Getting Started with IoTs",
+  "book_category": "Education",
+  "book_author": "Henry David",
+  "book_pub_year": 2005,
+  "books_in_stock": 400,
+  "book_description": "IoT will revolutionise the era, get this book to know more",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+},{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d94"
+  },
+  "bookid": "4x11111c",
+  "book_title": "Tales of Love and Joy",
+  "book_category": "Fantacy",
+  "book_author": "Julia Elexender",
+  "book_pub_year": 1989,
+  "books_in_stock": 35,
+  "book_description": "A bedtime novel based on two characters from scotland",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+},{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d95"
+  },
+  "bookid": "5x11111c",
+  "book_title": "The Modern Era and Big Data",
+  "book_category": "Science",
+  "book_author": "Elon Scarlet",
+  "book_pub_year": 2013,
+  "books_in_stock": 14,
+  "book_description": "A book based on the modern trends of bigdata",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+},{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d96"
+  },
+  "bookid": "6x11111c",
+  "book_title": "Rise and Fall of etrading",
+  "book_category": "Science",
+  "book_author": "Mark Tedd",
+  "book_pub_year": 2018,
+  "books_in_stock": 10,
+  "book_description": "Etrading is dying! read the book to know more",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+},{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d97"
+  },
+  "bookid": "7x11111c",
+  "book_title": "Halloween in COVID-19",
+  "book_category": "Fantacy",
+  "book_author": "Julia Elexender",
+  "book_pub_year": 2021,
+  "books_in_stock": 16,
+  "book_description": "In Covid-19, everything changed. Read more!",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+},{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d98"
+  },
+  "bookid": "8x11111c",
+  "book_title": "To whom it may concern!",
+  "book_category": "Science",
+  "book_author": "Elon Scarlet",
+  "book_pub_year": 2014,
+  "books_in_stock": 100,
+  "book_description": "In Covid-19, everything changed. Read more!",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+},{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d99"
+  },
+  "bookid": "9x11111c",
+  "book_title": "SampleBook1",
+  "book_category": "Education",
+  "book_author": "Mark Tedd",
+  "book_pub_year": 1942,
+  "books_in_stock": 1589,
+  "book_description": "In Covid-19, everything changed. Read more!",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+},{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d9a"
+  },
+  "bookid": "10x11111c",
+  "book_title": "SampleBook2",
+  "book_category": "Education",
+  "book_author": "Mark Tedd",
+  "book_pub_year": 1952,
+  "books_in_stock": 1589,
+  "book_description": "In Covid-19, everything changed. Read more!",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+},{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d9b"
+  },
+  "bookid": "11x11111c",
+  "book_title": "SampleBook4",
+  "book_category": "Education",
+  "book_author": "Mark Tedd",
+  "book_pub_year": 1962,
+  "books_in_stock": 1589,
+  "book_description": "In Covid-19, everything changed. Read more!",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+},{
+  "_id": {
+    "$oid": "640dc25c3929598aefd47d9c"
+  },
+  "bookid": "112x11111c",
+  "book_title": "SampleBook3",
+  "book_category": "Education",
+  "book_author": "Mark Tedd",
+  "book_pub_year": 1992,
+  "books_in_stock": 1589,
+  "book_description": "In Covid-19, everything changed. Read more!",
+  "samplePagesImages": ["https://sso.gcu.ac.uk/idp/SSO.jpg", 
+" https://sso.gcu.ac.uk/idp/SSO.jpg"]
+}]
